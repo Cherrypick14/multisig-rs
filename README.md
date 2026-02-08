@@ -143,7 +143,7 @@ if wallet.verify_transaction(&tx) {
 
 - [x] Project initialization
 - [ ] Core wallet implementation
-- [ ] Transaction signing and verification
+- [x] Transaction signing and verification
 - [ ] CLI interface
 - [ ] Comprehensive test suite
 - [ ] Documentation and examples
