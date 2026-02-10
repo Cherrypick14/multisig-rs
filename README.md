@@ -142,10 +142,10 @@ if wallet.verify_transaction(&tx) {
 ## Roadmap
 
 - [x] Project initialization
-- [ ] Core wallet implementation
+- [x] Core wallet implementation
 - [x] Transaction signing and verification
 - [ ] CLI interface
-- [ ] Comprehensive test suite
+- [x] Comprehensive test suite
 - [ ] Documentation and examples
 - [ ] Advanced features (time locks, spending limits)
 
