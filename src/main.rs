@@ -80,5 +80,4 @@ fn main() {
         println!();
     }
     
-    println!("=== Demo Complete ===");
 }
