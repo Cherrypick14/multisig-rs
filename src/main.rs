@@ -79,5 +79,5 @@ fn main() {
         println!("  - Amount: {}", executed_tx.amount);
         println!();
     }
-    
+
 }
