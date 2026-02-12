@@ -144,7 +144,7 @@ if wallet.verify_transaction(&tx) {
 - [x] Project initialization
 - [x] Core wallet implementation
 - [x] Transaction signing and verification
-- [ ] CLI interface
+- [x] CLI interface
 - [x] Comprehensive test suite
 - [ ] Documentation and examples
 - [ ] Advanced features (time locks, spending limits)
